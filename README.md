@@ -1,4 +1,4 @@
-# unsplashflutter
+# Flutter & Unsplash
 
 Flutter projet using unsplash API
 
